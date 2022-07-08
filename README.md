@@ -1,6 +1,6 @@
 # SeleniumKivy
 
-KIVY APPLICATION CREATING WORD DOCUMENT BY WEBSCRAPING GOOGLE PAGES USING SELENIUM CHROMEDRIVER BASED ON INFORMATION IN OTHER WORD DOCUMENTS.
+Kivy application which creates Word document by webscraping Google pages using Selenium Chromedriver based on information in other Word documents.
 
 
 EXAMPLE:
